@@ -3,7 +3,7 @@
   <h1>Tim Pevey</h1>
   <p><strong>UI/UX Designer & Design System Architect</strong></p>
   
-  <a href="https://datatimp.github.io/resume" style="text-decoration: none;"><img src="https://img.shields.io/badge/Resume-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:datatimp@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timothypevey/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/datatimp" style="text-decoration: none;"><img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://timpevey.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-5f5f5f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:datatimp@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/timothypevey/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/datatimp" style="text-decoration: none;"><img src="https://img.shields.io/badge/-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
 </div>
 
 <br />
@@ -91,13 +91,13 @@
 
 ---
 
-<h3 align="center">Creative Ventures</h3>
+<h3 align="center">Selected Portfolio</h3>
 
 <div align="center">
 
   <h3><a href="https://validopinion.dashery.com/">Valid Opinion</a></h3>
   <strong>Apparel Design</strong>
-  <p>My T-Shirt store featuring original art.</p>
+  <p></p>
   <img src="assets/images/dashery-store-screen.png" height="400px" alt="T-Shirt Store Preview" />
   <br/>
   <a href="https://validopinion.dashery.com/">Visit Store</a>
@@ -106,7 +106,7 @@
 
   <h3><a href="https://www.behance.net/gallery/239903619/Art-Prints">Art Prints</a></h3>
   <strong>Graphic Design</strong>
-  <p>A curated sampling of my graphic design work.</p>
+  <p></p>
   <img src="assets/images/art-prints-screen.png" height="400px" alt="Art Prints Preview" />
   <br/>
   <a href="https://www.behance.net/gallery/239903619/Art-Prints">View Gallery</a>
