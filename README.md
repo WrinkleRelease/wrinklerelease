@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    I use my background in graphic design, web development, and literary studies to solve problems and tell stories. I specialize in creating scalable, developer-ready design systems and intuitive interfaces that bridge the gap between creative vision and technical implementation.
+    I use my background in product design, graphic design and web development to solve problems and tell stories. I specialize in creating scalable, developer-ready design systems and intuitive interfaces that bridge the gap between creative vision and technical implementation.
   </p>
 </div>
 
